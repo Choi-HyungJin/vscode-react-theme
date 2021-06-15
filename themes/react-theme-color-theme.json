@@ -116,7 +116,7 @@
     {
       "name": "Function, Special Method",
       "scope": [
-        // "entity.name.function",
+        "entity.name.function",
         "meta.function-call",
         "variable.function",
         "support.function",
@@ -240,7 +240,8 @@
     {
       "name": "meta.method.js",
       "scope": [
-        "meta.class-method.js entity.name.function.js",
+        "meta.class-method.js",
+        // "entity.name.function.js",
         "variable.function.constructor"
       ],
       "settings": {
