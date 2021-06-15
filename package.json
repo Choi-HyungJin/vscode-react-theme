@@ -1,0 +1,23 @@
+{
+  "name": "react-color-theme",
+  "displayName": "React Color Theme",
+  "description": "Color theme based on reactjs.org",
+  "publisher": "optimizion",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": "https://github.com/optimizion/vscode-react-theme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "React Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/react-theme-color-theme.json"
+      }
+    ]
+  }
+}
