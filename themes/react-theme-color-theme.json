@@ -2,11 +2,18 @@
   "name": "react-theme",
   "type": "dark",
   "colors": {
+    "activityBarBadge.background": "#007acc",
+    "editor.lineHighlightBackground": "#353b45",
+    "activityBar.background": "#272c35",
     "editor.background": "#282c34",
     "editor.foreground": "#eeffff",
-    "activityBarBadge.background": "#007acc",
+    "sideBar.background": "#272c35",
+    "sideBarSectionHeader.background": "#343b46",
     "sideBarTitle.foreground": "#bbbbbb",
-    "editor.lineHighlightBackground": "#353b45"
+    "statusBar.background": "#272c35",
+    "statusBar.border": "#464a50",
+    "tab.activeBackground": "#272c35",
+    "titleBar.activeBackground": "#272c35"
   },
   "tokenColors": [
     {

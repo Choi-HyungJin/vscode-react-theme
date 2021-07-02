@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "react-theme" extension will be documented in this file.
+## [0.0.3]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- (sideBar, activityBar, statusBar) color -> #272c35 (editor background color)
 
-## [Unreleased]
+## [0.0.2]
+
+- change function keyword color #D7DEEA (white) -> #79b6f2 (blue)
+
+## [0.0.1]
 
 - Initial release
